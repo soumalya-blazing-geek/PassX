@@ -54,4 +54,4 @@ PassX is designed with simplicity in mind, and it comes with some limitations:
 
 ---
 
-Developed with ❤️ by Soumalya | [[Github](https://github.com/soumalya-blazing-geek)] | [[Instagram](https://instagram.com/blazing_soumalya)] |
+Developed with ❤️ by Soumalya | [[Github](https://github.com/soumalya-blazing-geek)] |
